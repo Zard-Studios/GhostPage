@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="[https://i.ibb.co/KV86Zsg/Ghost-Page.png]">
-    <img src="[link_all'immagine]" alt="GhostPage Logo">
+    <img src="[https://i.ibb.co/KV86Zsg/Ghost-Page.png]" alt="GhostPage Logo">
   </a>
 </p>
 
