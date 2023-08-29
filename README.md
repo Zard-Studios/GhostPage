@@ -7,7 +7,7 @@
 <h1 align="center">👻 GhostPage Browser Extension</h1>
 
 <p align="center">
-  <a href="[link_all'immagine]">
+  <a href="[https://i.ibb.co/KV86Zsg/Ghost-Page.png]">
     <img src="[link_all'immagine]" alt="GhostPage Logo">
   </a>
 </p>
