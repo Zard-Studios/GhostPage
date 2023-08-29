@@ -18,7 +18,6 @@
 - [✨ Features](#-features)
 - [⚙️ Installation](#️-installation)
 - [🚀 Usage](#-usage)
-- [🤝 Contributing](#-contributing)
 - [📝 License](#-license)
 
 ## 👋 Introduction
@@ -28,7 +27,7 @@ Tired of juggling too many tabs and straining your computer's resources? Say hel
 ## ✨ Features
 
 - **Resource Optimization:** GhostPage intelligently hides tabs, conserving memory and CPU power. 🖥️
-- **Effortless Management:** With a simple click, hide or reveal tabs to maintain a clutter-free browsing environment. 🧹
+- **Effortless Management:** With a simple click, you will be able to say goodbye to the huge resources. 🧹
 - **Customizable Settings:** Tailor the extension to your liking and needs. ⚙️
 - **Intuitive Interface:** GhostPage's user-friendly design makes tab management a breeze. 🌟
 
@@ -50,15 +49,6 @@ Using GhostPage is as easy as 1-2-3:
 2. 📜 A list of your open tabs will elegantly appear.
 3. 👻 Toggle the visibility of each tab as needed.
 4. 🎉 Enjoy a decluttered and zippy browsing experience!
-
-## 🤝 Contributing
-
-Contributions to GhostPage are super welcome! If you're keen to contribute:
-
-1. 🍴 Fork the repository and create a fresh branch.
-2. 🛠️ Implement your enhancements or squash those pesky bugs.
-3. 📦 Commit and push your polished changes.
-4. 🚁 Create a pull request, detailing your epic contributions.
 
 ## 📝 License
 
