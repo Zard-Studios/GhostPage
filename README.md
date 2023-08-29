@@ -7,7 +7,7 @@
 <h1 align="center">👻 GhostPage Browser Extension</h1>
 
 <p align="center">
-  <img src="[link_all'immagine](https://user-images.githubusercontent.com/96824937/264093317-1d24538d-6f37-48c6-8ef5-4b9a1850134d.png)" alt="GhostPage Logo">
+  <img src="[[link_all'immagine](https://user-images.githubusercontent.com/96824937/264093317-1d24538d-6f37-48c6-8ef5-4b9a1850134d.png)](https://github.com/Zard-Studios/GhostPage/assets/96824937/1d24538d-6f37-48c6-8ef5-4b9a1850134d)" alt="GhostPage Logo">
 </p>
 
 <p align="center">Optimize Your Browsing Experience with GhostPage</p>
